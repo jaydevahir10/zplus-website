@@ -29,7 +29,6 @@ This project focuses on:
 - Tailwind CSS (UI styling)
 - Framer Motion (animations)
 - Lucide Icons
-- Google AI Studio / Web App Build Tools
 
 > ⚠️ The project is synchronized to **React 18.2.0** to avoid
 > mixed-runtime errors with React 19 imports.
